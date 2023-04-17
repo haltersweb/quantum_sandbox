@@ -1,6 +1,8 @@
 .DS_Store
 bin/
-include
+include/
 lib/
 pyvenv.cfg
+etc/
+share/
 
